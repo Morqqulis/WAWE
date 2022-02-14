@@ -1,2 +1,0 @@
-# Wawe
-Wawe Landing Page
